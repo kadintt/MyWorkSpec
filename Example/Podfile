@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'MyWorkSpec_Example' do
+  pod 'MyWorkSpec', :path => '../'
+
+  target 'MyWorkSpec_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
