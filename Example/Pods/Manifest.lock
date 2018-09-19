@@ -1,0 +1,16 @@
+PODS:
+  - MyWorkSpec (0.1.0)
+
+DEPENDENCIES:
+  - MyWorkSpec (from `../`)
+
+EXTERNAL SOURCES:
+  MyWorkSpec:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  MyWorkSpec: 7f0d6e0d4a167fc746525ba6b73a50814143529f
+
+PODFILE CHECKSUM: 1e9e92acd287161a1fe1a9a107cb084f4c5acb13
+
+COCOAPODS: 1.5.2

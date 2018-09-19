@@ -40,7 +40,7 @@
 		005CDD7598F7D904C34BAE9F /* Pods-MyWorkSpec_Example.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-MyWorkSpec_Example.release.xcconfig"; path = "Pods/Target Support Files/Pods-MyWorkSpec_Example/Pods-MyWorkSpec_Example.release.xcconfig"; sourceTree = "<group>"; };
 		046FA085231C9067CAEEB2EA /* Pods_MyWorkSpec_Example.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_MyWorkSpec_Example.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		556F70E5DBE5F40656700873 /* Pods-MyWorkSpec_Example.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-MyWorkSpec_Example.debug.xcconfig"; path = "Pods/Target Support Files/Pods-MyWorkSpec_Example/Pods-MyWorkSpec_Example.debug.xcconfig"; sourceTree = "<group>"; };
-		5A3E7768F6BC8C3ED7A34F5A /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; name = LICENSE; path = ../LICENSE; sourceTree = "<group>"; };
+		5A3E7768F6BC8C3ED7A34F5A /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; name = LICENSE; path = ../LICENSE; sourceTree = "<group>"; };
 		6003F58A195388D20070C39A /* MyWorkSpec_Example.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = MyWorkSpec_Example.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		6003F58D195388D20070C39A /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
 		6003F58F195388D20070C39A /* CoreGraphics.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreGraphics.framework; path = System/Library/Frameworks/CoreGraphics.framework; sourceTree = SDKROOT; };
@@ -61,11 +61,11 @@
 		6003F5BB195388D20070C39A /* Tests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = Tests.m; sourceTree = "<group>"; };
 		606FC2411953D9B200FFA9A0 /* Tests-Prefix.pch */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "Tests-Prefix.pch"; sourceTree = "<group>"; };
 		71719F9E1E33DC2100824A3D /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
-		7B6664CE2B4994096D751E84 /* README.md */ = {isa = PBXFileReference; includeInIndex = 1; name = README.md; path = ../README.md; sourceTree = "<group>"; };
+		7B6664CE2B4994096D751E84 /* README.md */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = net.daringfireball.markdown; name = README.md; path = ../README.md; sourceTree = "<group>"; };
 		7DCA6B25E00F0F79C683118F /* Pods-MyWorkSpec_Tests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-MyWorkSpec_Tests.debug.xcconfig"; path = "Pods/Target Support Files/Pods-MyWorkSpec_Tests/Pods-MyWorkSpec_Tests.debug.xcconfig"; sourceTree = "<group>"; };
 		873B8AEA1B1F5CCA007FD442 /* Main.storyboard */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.storyboard; name = Main.storyboard; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
 		9415C18691BFCAD2FD0EF5BC /* Pods-MyWorkSpec_Tests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-MyWorkSpec_Tests.release.xcconfig"; path = "Pods/Target Support Files/Pods-MyWorkSpec_Tests/Pods-MyWorkSpec_Tests.release.xcconfig"; sourceTree = "<group>"; };
-		AE1D23280BEE3BAFA94370A2 /* MyWorkSpec.podspec */ = {isa = PBXFileReference; includeInIndex = 1; name = MyWorkSpec.podspec; path = ../MyWorkSpec.podspec; sourceTree = "<group>"; };
+		AE1D23280BEE3BAFA94370A2 /* MyWorkSpec.podspec */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; name = MyWorkSpec.podspec; path = ../MyWorkSpec.podspec; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
 		DCDE94CD258DE680D1153BD8 /* Pods_MyWorkSpec_Tests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_MyWorkSpec_Tests.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 /* End PBXFileReference section */
 
